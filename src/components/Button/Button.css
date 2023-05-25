@@ -1,0 +1,18 @@
+
+.btn{
+    width: 350px;
+    margin-top: 15px;
+    text-align: center;
+   
+    display: flex;
+     justify-content: space-around;
+ } 
+
+button{
+    width:100px;
+    height: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    padding-bottom: 10px;
+}
+
